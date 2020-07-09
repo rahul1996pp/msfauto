@@ -1,50 +1,49 @@
 # msfauto
-Generate msfvenom codes automatically
 This script used to generate msfvenom code automatically just by pressing options
 ## you must use python3 to run script correctly##
 
-Contents :
-	MENU
-
+# **Contents :**
+>MENU
 1.linux
 2.windows
 3.mac
 4.webpayloads
 5.scripting
 6.android
-	
-	LINUX
+
+> LINUX
 1.Reverse shell
 2.bind shell
 
-	WINDOWS
+> WINDOWS
 1.Reverse shell
 2.bind shell
 3.cmd shell 
 4.user creation
 
-	MAC
+> MAC
 1.Reverse shell
 2.bind shell
 
-	WEB PAYLOADS
+> WEB PAYLOADS
 1.php
 2.asp
 3.jsp
 4.war
 
-	SCRIPTING
+> SCRIPTING
 1.python
 2.bash
 3.perl
 
-	ANDROID
+> ANDROID
 1.Reverse shell
 
-	Usage:
-## Python3 msfauto.py ##
+**Usage:**
+         
+		 Python3 msfauto.py
 
-Manual usage of msfvenom
+**Manual usage of msfvenom**
 
 Options:
     -l, --list            <type>     List all modules for [type]. Types are: payloads, encoders, nops, platforms, archs, encrypt, formats, all

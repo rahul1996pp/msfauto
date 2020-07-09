@@ -1,7 +1,7 @@
 # msfauto
 This script used to generate msfvenom code automatically just by pressing options
 ## you must use python3 to run script correctly##
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/rahul1996pp/msfauto/blob/master/LICENSE)
 # **Contents :**
 >MENU
 1.linux

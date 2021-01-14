@@ -61,10 +61,11 @@ This script used to generate msfvenom code automatically just by pressing option
 ### **ANDROID**
 
 1.Reverse shell
+
 2.Embed Payload with another apk
 
 #### **Usage:**
          
-		 Python3 msfauto.py
+		 Python msfauto.py
 
 **Buy me a coffee : [click here](https://www.paypal.me/RahulPujari "Pay")**

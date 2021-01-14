@@ -61,6 +61,7 @@ This script used to generate msfvenom code automatically just by pressing option
 ### **ANDROID**
 
 1.Reverse shell
+2.Embed Payload with another apk
 
 #### **Usage:**
          

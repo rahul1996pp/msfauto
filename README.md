@@ -1,68 +1,19 @@
-# msfauto
+# MSFAUTO
 This script used to generate msfvenom code automatically just by pressing options
-## you must use python3 to run script correctly##
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/rahul1996pp/msfauto/blob/master/LICENSE)
+- we can easily generate payloads just by pressing numbers without any code.
+- This script do all the work for you.
+- This scipt is user friendly anyone can understand.
+- I use encoders as mandatory to bypass anti virus.
 # **Contents :**
-## **MENU**
-1.linux
 
-2.windows
-
-3.mac
-
-4.webpayloads
-
-5.scripting
-
-6.android
-
-------------
-
-### **LINUX**
-
-1.Reverse shell
-
-2.bind shell
-
-### **WINDOWS**
-
-1.Reverse shell
-
-2.bind shell
-
-3.cmd shell 
-
-4.user creation
-
-### **MAC**
-
-1.Reverse shell
-
-2.bind shell
-
-### **WEB PAYLOADS**
-
-1.php
-
-2.asp
-
-3.jsp
-
-4.war
-
-###  **SCRIPTING**
-
-1.python
-
-2.bash
-
-3.perl
-
-### **ANDROID**
-
-1.Reverse shell
-
-2.Embed Payload with another apk
+|Menu| linux  | windows  | mac  | webpayloads  | scripting  | android  |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+|payloads | Reverse shell  | Reverse shell  |  Reverse shell  |  php | python  | Reverse shell  |
+|payloads | bind shell  | bind shell  | bind shell   |  asp |  bash | Embed Payload with another apk  |
+|payloads |  - | cmd shell   | -  | jar  |  perl | -  |
+|payloads | -  | user creation  | - | war  | -|-|  
 
 #### **Usage:**
          
